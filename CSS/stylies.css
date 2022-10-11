@@ -1,0 +1,197 @@
+.header-bar{
+	width: 1440px;
+	height: 50px;
+	position: fixed;
+	left: 0;
+	top: 0;
+}
+.logo{
+
+	display: inline-block;
+	margin-right: 92px;
+	margin-left: 20px;
+	margin-top: 18px;
+}
+
+
+.navigation{
+	display: inline-block;
+}
+
+.nav-li{
+	font: 11px;
+	margin-right: 27px;
+	display: inline-block;
+	
+}
+
+.list-item{
+	font-family: 'Helvetica';
+	font: 11px;
+	color: #343638;
+	margin-right: 27px;
+	
+}
+
+.list-image{
+	margin-left: 40px;
+	vertical-align: middle;
+	
+}
+.active {
+	color: 	#343638;
+	font-weight: bold;
+}
+
+
+.section1{
+	margin-left: 140px;
+	margin-top: 75px;
+}
+
+.section1-container{
+	width: 1160px;
+	height: 410px;
+}
+.title{
+	width: 1025px;
+	height: 20px;
+	font-family: 'Helvetica';
+	font-size: 24px;
+	font-weight: bold;
+	margin-bottom: 40px;
+
+}
+
+.imagebox-container{
+	display: inline-flex;
+}
+
+.block-left{
+	width: 350px;
+	height: 371px;
+	margin-right: 40px;
+	display: inline-block;
+}
+
+.block-middle{
+	width: 350px;
+	height: 371px;
+	margin-right: 40px;
+	display: inline-block;
+}
+
+.block-right{
+	width: 350px;
+	height: 371px;
+	display: inline-block;
+}
+
+.block-input{
+	font-family: 'Acumin Pro';
+	color: #A6ADB4;
+	width: 280px;
+	height: 38px;
+	margin-top: 66px;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+.time-block{
+	width: 75px;
+	height: 16px;
+	margin-left: 40px;
+	margin-top: 10px;
+	display: inline-block;
+}
+
+.timeicon{
+	display: inline-block;
+}
+
+.time{
+	font-family: 'Helvetica';
+	color: #A6ADB4;
+	display: inline-block;
+}
+
+
+.container-block{
+	display: inline-flex;
+}
+
+.image-block-right{
+	width: 360px;
+	height: 896px;
+	display: inline-block;
+	margin-left: 43px;
+
+	
+}
+
+.image-block-left{
+	width: 760px;
+	height: 900px;
+	margin-top: 40px;
+	display: inline-block;
+	
+}
+
+.image-box{
+	width: 360px;
+	height: 180px;
+	padding: 0;
+	position: relative;
+
+}
+
+.text-box{
+	font-family: 'Helvetica';
+	color: #FFFFFF;
+	font:  16px;
+	width: 280px;
+	height: 16px;
+	position: absolute;
+	left: 42px;
+	top: 28px;
+
+}
+
+
+.section2{
+	
+	margin-left: 140px;
+	margin-top: 58px;
+	
+}
+
+
+.imag-block-left-photo{
+	width: 760px;
+	height: 430px;
+	margin-bottom: 40px;
+	
+}
+
+
+.imag-block-right-photo{
+	width: 360px;
+	height: 210px;
+	margin-bottom: 102px;
+
+}
+
+.image-box-photo{
+	position: relative;
+}
+
+.image-text{
+	font: 16px;
+	color: #FFFFFF;
+	font-weight: bold;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+
+}
